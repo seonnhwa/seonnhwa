@@ -1,7 +1,5 @@
 ### Hi there 👋
 I'm a <b>front-end developer</b> skilled in web. :rocket:<br/>
-<!-- 📫 How to reach me: <br/>
-<a href="mailto:shwaa826@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shwaa826@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="margin-top: 10px;"/> </a> -->
 
 #### 🔨 Skills
 <p>
@@ -16,6 +14,9 @@ I'm a <b>front-end developer</b> skilled in web. :rocket:<br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </p>
+
+##### 📫 How to reach me
+<a href="mailto:shwaa826@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shwaa826@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" style="vertical-align: middle"/> </a><br/>
 
 <!--
 **seonnhwa/seonnhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
