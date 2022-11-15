@@ -3,7 +3,7 @@ I'm a <b>front-end developer</b> skilled in web. :rocket:<br/>
 <!-- 📫 How to reach me: <br/>
 <a href="mailto:shwaa826@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shwaa826@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="margin-top: 10px;"/> </a> -->
 
-### 💪 Skills
+#### 🔨 Skills
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
